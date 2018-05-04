@@ -84,7 +84,7 @@ ________________________________________
 ________________________________________
 ## RELEVANT EXPERIENCE 
 ________________________________________
-* The University of Texas at Austin – Data Analytics Teacher Adjunct, Austin TX, 2018 – Present 
+* The University of Texas at Austin – Data Analytics Adjunct, Austin TX, 2018 – Present 
 * Harmony Public Schools – AP Calculus Teacher, Austin TX, 2017 – Present 
 * Northwest Catering – Operations Manager, Austin TX, 2015 – 2017
 * Cibolo-Schertz-Universal City ISD – AP Calculus Teacher, Schertz TX, 2014 – 2015
