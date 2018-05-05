@@ -1,6 +1,8 @@
-# Erdem Balikci Resume
-Austin, TX 78717 | (512) 650 6005 | mrbalikci@gmail.com | https://www.linkedin.com/in/erdemjohnbalikci/
-GitHub: https://github.com/mrbalikci | Portfolio: https://mrbalikci.github.io/
+# Erdem Balikci 
+## Resume
+
+* Austin, TX 78717 | (512) 650 6005 | mrbalikci@gmail.com | https://www.linkedin.com/in/erdemjohnbalikci/
+* GitHub: https://github.com/mrbalikci | Portfolio: https://mrbalikci.github.io/
 ________________________________________
 ## CAREER SUMMARY
 ________________________________________
@@ -8,9 +10,9 @@ Strategic, multidisciplinary Data Analyst with an eye for innovation and analyti
 ________________________________________
 ## EDUCATION
 ________________________________________
-The University of Texas at Austin | Data Analytics and Visualization
-The University of Texas at San Antonio | MS in Applied Industrial Mathematics
-The University of Dokuz Eylul Izmir Turkey | BS in Mathematics
+* The University of Texas at Austin | Data Analytics and Visualization
+* The University of Texas at San Antonio | MS in Applied Industrial Mathematics
+* The University of Dokuz Eylul Izmir Turkey | BS in Mathematics
 ________________________________________
 ## AREAS OF EXPERTISE
 ________________________________________
