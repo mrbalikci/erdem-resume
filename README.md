@@ -30,7 +30,8 @@ ________________________________________
 * Research, Reports, and Forecasts
 * Statistical Analysis: R
 * Business Intelligence Software: Tableau
-* Databases: MySQL, MongoDB	•	Advanced Excel Functions: Pivot Tables, VBA Scripting
+* Databases: MySQL, MongoDB	
+* Advanced Excel Functions: Pivot Tables, VBA Scripting
 * Fundamental Statistics: Modeling, Forecasting
 * Python Programming: Python, Numpy, Pandas, Matplotlib, API Interactions, Social Media Mining
 * Web Visualization: HTML, CSS, Bootstrap, Dashboarding, JavaScript, D3.js, Leaflet.js
