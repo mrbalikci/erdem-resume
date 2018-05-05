@@ -1,8 +1,10 @@
-# Erdem Balikci 
-## Resume
+# Resume 
+## Erdem Balikci 
 
-* Austin, TX 78717 | (512) 650 6005 | mrbalikci@gmail.com | https://www.linkedin.com/in/erdemjohnbalikci/
-* GitHub: https://github.com/mrbalikci | Portfolio: https://mrbalikci.github.io/
+* Austin, TX 78717 | (512) 650 6005 | mrbalikci@gmail.com
+* LinkedIn: https://www.linkedin.com/in/erdemjohnbalikci/
+* GitHub: https://github.com/mrbalikci
+* Portfolio: https://mrbalikci.github.io/
 ________________________________________
 ## CAREER SUMMARY
 ________________________________________
