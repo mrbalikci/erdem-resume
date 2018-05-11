@@ -41,19 +41,23 @@ ________________________________________
 ________________________________________
 ## MOST RECENT PROJECTS
 ________________________________________
-1. Name: World Refugee Crisis
+1. Name: Mortgage Loan App, Machine Learning  
+* Tools Used: Neural Network, Tensor Flow, Random Forest, K-Nearest Neighbor Classifier, Support Vector Machine, Keras, Python, JavaScript, CSS, HTML, D3, Flask, Pandas, Numpy, Matplotlib 
+* Description: [Back End] Messy data was cleaned and converted into numerical values for machine learning pipelines. Created Normal Neural Network, Random Forest, Keras models to make a prediction of loan approval or disapproval for a mortgage application. [Front End] Used HTML, CSS, Bootstrap, and JavaScript to create a web application to take information form from the user to run loan approval and disapproval results. The model success is above 90%.  
+* Link:  https://github.com/mrbalikci/mortgage-app 
+
+2. Name: World Refugee Crisis
 * Tools Used: JavaScript, Python, CSS/HTML, D3, Leaflet, Flask, Pandas, Numpy, SQLite, Sqlalchemy, Plotly
 * Description: [Back End] Explored, analyzed messy data sets from World Bank for asylum, refugee, battle related deaths for all countries since 1990. Accomplished an animated world map that shows the refugees, asylum, battle data with corresponding values, different layers by converting the data into SQLite database and reading with python by sqlalchemy queries for Flask API routes. Measured, calculated the plots, charts by using JavaScript. [Front End] Visualized all the calculations by using HTML/CSS and deployed with Heroku App. 
 * Link 1. https://world-refugee-crisis.herokuapp.com 
 * Link 2. https://github.com/mrbalikci/project-2
 
-2. Name: Star Trek Cast Reunion
+3. Name: Star Trek Cast Reunion
 * Tools Used: Python, Matplotlib, API Interactions, Statistical Modeling
 * Description: Launched API Movie Data Base for guest stars of Star Trek Original. Other movies analyzed based on their appearances. Top 10 movies were detected. Most guest star actors who were still active discovered. Formulated most popular production companies among the guest stars. Architected mosaics based on the collected pictures from the API. 
 * Link: https://github.com/mrbalikci/star_trek
 
-
-3. Name: The World Cities Weather vs Latitude
+4. Name: The World Cities Weather vs Latitude
 * Tools Used: Python, API Interactions, Numpy, Matplotlib
 * Description: Coded a weather API python general script for over randomly selected 500 cities across the world of varying distance from the equator to detect their temperature, humidity, cloudiness, and wind speed based on their latitude. 
 * Link: https://github.com/mrbalikci/api-challange
