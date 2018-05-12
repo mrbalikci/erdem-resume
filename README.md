@@ -67,31 +67,38 @@ ________________________________________
 ________________________________________
 1.	Voice Recognition: Neural Network – Machine Learning (prediction)
 *	Tools Used: Python, Pandas, Jupyter Notebook, Matplotlib. Sklearn, Keras, Machine and Neural Network Tools
-*	Applied Neural Network Machine Learning to predict the gender of a voice using acoustic properties of the voice and speech. Link: https://github.com/mrbalikci/neural_network_voice_recognition
+*	Applied Neural Network Machine Learning to predict the gender of a voice using acoustic properties of the voice and speech. 
+ * Link: https://github.com/mrbalikci/neural_network_voice_recognition
 
 2.	Belly-Button Diversity: Bacteria Dashboard
 *	Tools Used: JavaScript, Python, HTML, CSS, Bootstrap, Flask API, SQLite, Sqlalchemy
-*	Used Flask to design an API for the dataset and to serve the HTML and JavaScript required for the dashboard page. SQLite database file and Sqlalchemy inside of the Flask application code was used for the database as JSON file format. Link: https://github.com/mrbalikci/bacteria-diversity
+*	Used Flask to design an API for the dataset and to serve the HTML and JavaScript required for the dashboard page. SQLite database file and Sqlalchemy inside of the Flask application code was used for the database as JSON file format. 
+* Link: https://github.com/mrbalikci/bacteria-diversity
 
 3.	UFO Sightings: Automatic Table and Data Search 
 *	Tools Used: JavaScript, HTML, CSS
-*	Wrote a code that creates a table dynamically based upon the dataset collected. Users to search through the table for specific pieces of information. Link: https://github.com/mrbalikci/UFO-sightings
+*	Wrote a code that creates a table dynamically based upon the dataset collected. Users to search through the table for specific pieces of information. 
+* Link: https://github.com/mrbalikci/UFO-sightings
 
 4.	School Analysis: Charter Schools Vs District Schools
 *	Tools Used: Python, Numpy, Pandas, Jupyter Notebook
-*	Over 35k students’ performances were analyzed from 15 different schools. Top, bottom performing schools diagnosed with the reasoning by charts, tables. Link: https://github.com/mrbalikci/schools-analysis-pandas
+*	Over 35k students’ performances were analyzed from 15 different schools. Top, bottom performing schools diagnosed with the reasoning by charts, tables. 
+* Link: https://github.com/mrbalikci/schools-analysis-pandas
 
 5.	Rental Movie Database
 *	Tools Used: MySQL 
-*	Formulated a query to program total sales by each store and staff by type of the movies. Most frequently rented movies, top genres of movies that were detected. Link: https://github.com/mrbalikci/mysql-challange
+*	Formulated a query to program total sales by each store and staff by type of the movies. Most frequently rented movies, top genres of movies that were detected. 
+* Link: https://github.com/mrbalikci/mysql-challange
 
 6.	Kick Start Campaign: The Most Successful Start-Up Projects 
 *	Tools Used: Advanced Excel, Pivot Tables
-*	Diagnosed and analyzed a database of 4,000 past projects in order to uncover any hidden trends for being a successful or unsuccessful Kick Start Campaign. Link: https://github.com/mrbalikci/advanced_excel
+*	Diagnosed and analyzed a database of 4,000 past projects in order to uncover any hidden trends for being a successful or unsuccessful Kick Start Campaign. 
+* Link: https://github.com/mrbalikci/advanced_excel
 
 7.	Social Media: Sentiment Analysis of BBC, CBS, CNN, FoxNews and New York Times
 *	Tools Used: Python, API interactions, Matplotlib, Numpy, Pandas
-*	Programmed a general python script by using Twitter API to call news organizations 100 last tweets. Analysis saved as CSV displayed as matplotlib graphs. Link: https://github.com/mrbalikci/sentiment-challange
+*	Programmed a general python script by using Twitter API to call news organizations 100 last tweets. Analysis saved as CSV displayed as matplotlib graphs. 
+* Link: https://github.com/mrbalikci/sentiment-challange
 ________________________________________
 ## RELEVANT EXPERIENCE 
 ________________________________________
