@@ -68,6 +68,7 @@ ________________________________________
 1.	Voice Recognition: Neural Network – Machine Learning (prediction)
 *	Tools Used: Python, Pandas, Jupyter Notebook, Matplotlib. Sklearn, Keras, Machine and Neural Network Tools
 *	Applied Neural Network Machine Learning to predict the gender of a voice using acoustic properties of the voice and speech. Link: https://github.com/mrbalikci/neural_network_voice_recognition
+
 2.	Belly-Button Diversity: Bacteria Dashboard
 *	Tools Used: JavaScript, Python, HTML, CSS, Bootstrap, Flask API, SQLite, Sqlalchemy
 *	Used Flask to design an API for the dataset and to serve the HTML and JavaScript required for the dashboard page. SQLite database file and Sqlalchemy inside of the Flask application code was used for the database as JSON file format. Link: https://github.com/mrbalikci/bacteria-diversity
